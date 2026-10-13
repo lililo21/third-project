@@ -1,0 +1,7 @@
+def main():
+    print("Hello, GitHub!")
+    print("This is my third project.")
+    print("I am learning Git step by step.")
+
+if __name__ == "__main__":
+    main()
